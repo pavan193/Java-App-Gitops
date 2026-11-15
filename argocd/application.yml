@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/pavan193/Java-App.git
+    repoURL: https://github.com/pavan193/Java-App-Gitops.git
     targetRevision: main
     path: k8s
   destination:
