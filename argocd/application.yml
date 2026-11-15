@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/pavan193/Java-App-Gitops.git
     targetRevision: main
-    path: k8s
+    path: k8
   destination:
     server: https://kubernetes.default.svc
     namespace: default
